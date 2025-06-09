@@ -1,0 +1,18 @@
+.dabt{text-shadow: -12px -3px 3px #885554;
+      text-decoration: overline;}
+.dabt:hover{text-shadow: 7px 2px 5px #85211d;
+      text-decoration:underline;}
+.dddt{text-align:center;
+      word-spacing: 30px;
+      letter-spacing: 10px}
+
+h1{coLor:rer}
+.hong{color:red}
+
+a{color: #594536;text-decoration:none;}
+.dh{height: 30px;background-image: linear-gradient(to right,red,blue)}
+.dhz{margin-top:3px;height: 30px;width:400px;display:inline;position: absolute;margin-top: 3px;}
+.dhz ul{display:inline;padding-right: 10px}
+.dhz li{display:inline;margin-right: 3px}
+
+.ec2{text-align: center}
